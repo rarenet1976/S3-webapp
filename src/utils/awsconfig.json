@@ -3,7 +3,7 @@
     "region": "ca-central-1",
     "userPoolId": "ca-central-1_TktWex3K8",
     "identityPoolId": "ca-central-1:3caaf6f6-870f-45dd-bd3d-8673ec03a7d1",
-    "userPoolWebClientId": "1m8v4s36pgebkcdsd7b4k7jkj9x"
+    "userPoolWebClientId": "1m8v4s36pgebkcdsd7b4k7jkj9"
   },
   "Storage": {
     "bucket": "public-legal",
